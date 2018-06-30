@@ -1,0 +1,40 @@
+/***************************************************************
+ * Top-level style sheet.  Make general CSS changes here and
+ * use the browser/platform-specific CSS files for specific
+ * changes.
+ *
+ * Note: Do NOT specify fonts in points/pixel sizes.  Use
+ *       percentages only as this will ensure the browser gets
+ *       the option of using user-specified font sizes.  This
+ *       is important for those who have better or worse vision
+ *       than yourself.
+ **************************************************************/
+
+
+.Body_Bgcolor
+{
+    BACKGROUND-COLOR: #ffffff
+}
+body
+{
+	BACKGROUND-COLOR: #FFDEAD;
+}
+
+.header2
+{
+	font-family:'Monotype Corsiva',sans-serif;
+	font-size:30px;
+	width:200px;
+	
+	padding:10px 15px;
+	BACKGROUND-COLOR: #FFCC00;
+	
+}
+.header1
+{
+	font-family:'Monotype Corsiva',sans-serif;
+	font-size:30px;
+	width:200px;
+	padding:10px 15px;
+	BACKGROUND-COLOR: #22B14C
+}
